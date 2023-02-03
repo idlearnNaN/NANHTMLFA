@@ -340,7 +340,7 @@ top: 0;
 
 .navigationCheckbox:checked ~ .nav {
   opacity: 1;
-  width: 47.5%;
+  width: 48.6%;
   margin-left: px;
   height: 830px;
 }
