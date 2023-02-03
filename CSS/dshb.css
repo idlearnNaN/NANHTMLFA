@@ -233,7 +233,7 @@ nav{
 
 .navigationCheckbox:checked ~ .nav {
   opacity: 1;
-  width: 58%;
+  width: 47.5%;
   margin-left: px;
   height: 830px;
 }
@@ -259,4 +259,5 @@ li{
   border: black;
   width: 10px;
 }
-  
+
+
